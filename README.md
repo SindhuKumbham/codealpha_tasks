@@ -10,12 +10,10 @@
 ## 👤 About Me
 
 | Field | Details |
-|---|---|
-| **Name** | Your Full Name |
+| **Name** | KUMBHAM SINDHU |
 | **Internship** | CodeAlpha - Data Analytics |
 | **Task** | Task 1 - Web Scraping |
 | **Duration** | May 2026 |
-| **LinkedIn** | your-linkedin-link (optional) |
 
 ---
 
