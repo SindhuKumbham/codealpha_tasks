@@ -72,3 +72,69 @@ For every book, the following information was collected:
 2. It finds all 20 book cards on that page
 3. For each book it extracts the title, price, rating, availability and URL
 4. It then looks for the Next page
+
+   
+# 📌 Task 2 - Exploratory Data Analysis (EDA)
+
+### 🎯 Objective
+The objective of this task was to perform Exploratory Data Analysis (EDA)
+on a dataset to understand its structure, discover patterns,
+identify missing values, detect relationships between variables,
+and generate useful insights using visualizations.
+
+---
+
+### 🛠️ Tools and Libraries Used
+
+| Library | Purpose |
+|---|---|
+| Python 3 | Main programming language |
+| pandas | Data loading and analysis |
+| numpy | Numerical operations |
+| matplotlib | Data visualization |
+| seaborn | Statistical graphs and plots |
+
+---
+
+### 📊 EDA Operations Performed
+
+1. Loaded the dataset using pandas
+2. Displayed dataset shape and column information
+3. Checked for missing/null values
+4. Generated statistical summary of numerical columns
+5. Identified duplicate records
+6. Analyzed categorical and numerical features
+7. Created visualizations for better understanding
+8. Observed trends, distributions, and correlations
+
+---
+
+### 📈 Visualizations Created
+
+| Visualization | Purpose |
+|---|---|
+| Histogram | Shows data distribution |
+| Box Plot | Detects outliers |
+| Heatmap | Displays feature correlations |
+| Count Plot | Shows frequency of categories |
+| Scatter Plot | Shows relationships between variables |
+
+---
+
+### 📁 Output Files
+
+| File Name | Description |
+|---|---|
+| eda.py | Python script for EDA |
+| dataset.csv | Dataset used for analysis |
+| output graphs | Generated charts and plots |
+| README.md | Project documentation |
+
+---
+
+### ▶️ How to Run the Project
+
+1. Install required libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn
