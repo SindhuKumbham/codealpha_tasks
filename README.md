@@ -13,6 +13,7 @@
 | **Name** | KUMBHAM SINDHU |
 | **Internship** | CodeAlpha - Data Analytics |
 | **Task** | Task 1 - Web Scraping |
+| Task 2 - Exploratory Data Analysis (EDA) |
 | **Duration** | May 2026 |
 
 ---
